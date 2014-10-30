@@ -378,6 +378,7 @@ class Cop
 		class seizePlayerWeapon {};
 		class seizePlayerWeaponAction {};
 		class alkoholdrugtester {};
+		//loadout
 		class gsgLoadout {};
 
 
