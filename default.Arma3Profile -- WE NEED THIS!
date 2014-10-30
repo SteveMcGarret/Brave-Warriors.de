@@ -1,0 +1,35 @@
+	// Copy this sh*t into your server YOURPROFILENAME.Arma3Profile  and replace the regular (or standard used difficult) - We need the flags! 
+	 // For now with Nameplates ; after some scripting maybe without them (FriendlyTag + EnemyTag)
+	
+	class Regular
+	{
+		class Flags
+		{
+			Armor=0;
+			FriendlyTag=1;
+			EnemyTag=1;
+			MineTag=0;
+			HUD=1;
+			HUDPerm=1;
+			HUDWp=1;
+			HUDWpPerm=1;
+			HUDGroupInfo=1;
+			StanceIndicator=0;
+			AutoSpot=0;
+			Map=1;
+			WeaponCursor=0;
+			AutoGuideAT=1;
+			ClockIndicator=0;
+			3rdPersonView=1;
+			CameraShake=1;
+			UnlimitedSaves=0;
+			DeathMessages=0;
+			NetStats=0;
+			VonID=1;
+			ExtendetInfoType=1;
+		};
+		skillFriendly=1;
+		precisionFriendly=1;
+		skillEnemy=1;
+		precisionEnemy=1;
+	};

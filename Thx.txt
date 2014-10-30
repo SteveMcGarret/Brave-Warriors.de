@@ -1,0 +1,6 @@
+Speziellen Dank an Herofactory für das Bereitstellen ihres Source Codes. Dieser ist echt gut zu nutzen.
+
+Änderungen unserer Seits sind vorgenommen worden, doch das Hauptscript ist von HeroFactory.
+
+
+Steve McGarrett
